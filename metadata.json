@@ -1,0 +1,6 @@
+{
+  "name": "VirtuDroid",
+  "description": "Virtual Android Phone environment with secure operating system, real web browser, apps, phone dialer, camera, and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
